@@ -1,11 +1,3 @@
-███████╗████████╗    ██████╗  ██████╗ ███████╗
-██╔════╝╚══██╔══╝    ██╔══██╗██╔═══██╗██╔════╝
-█████╗     ██║       ██████╔╝██║   ██║█████╗  
-██╔══╝     ██║       ██╔══██╗██║   ██║██╔══╝  
-███████╗   ██║       ██████╔╝╚██████╔╝███████╗
-╚══════╝   ╚═╝       ╚═════╝  ╚═════╝ ╚══════╝
-         Fake Terminal DOS v1.01
-
 # FT-DOS Version 1.01  
 ![Badge](https://img.shields.io/badge/Language-Batch-blue)  
 ![Badge](https://img.shields.io/badge/Safety-100%25%20Safe-brightgreen)  
