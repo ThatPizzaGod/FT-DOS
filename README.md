@@ -74,3 +74,27 @@
 
 ## 🧾 License  
 This project is released under the MIT License — see `LICENSE` file in this repository.
+
+
+# Changelog for FT-DOS
+
+## v1.01 (2025-11-23)  
+### Added  
+- Bootloader simulation (RAM scan, UEFI handshake, virtual firmware)  
+- BIOS setup menu (System Info, Boot Options, Devices, Exit)  
+- Multi-OS launcher (Windows 12 / 93 / 96)  
+- Interactive command-shell with 30+ fake commands  
+- Multiple BSOD variants with automatic recovery  
+- Easter eggs (skeletons, rickroll, ghost mode)  
+- Virtual file system simulation (ls, open, vcreate…)  
+- Fake apps menu: calculator, ASCII drawer, matrix mode, etc.  
+- Theme engine and color schemes  
+- Diagnostic suite simulation (memtest, benchmark…)  
+- Complete safe design (no real system commands)  
+
+### Changed  
+- None (Initial release)
+
+### Fixed  
+Many Bugs and issues.
+
